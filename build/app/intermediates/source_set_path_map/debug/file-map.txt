@@ -1,0 +1,12 @@
+com.example.gsi_finanzas.app-jetified-window-java-1.0.0-beta04-0 /home/raul/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.gsi_finanzas.app-core-1.6.0-1 /home/raul/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.gsi_finanzas.app-jetified-annotation-experimental-1.1.0-2 /home/raul/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.gsi_finanzas.app-jetified-window-1.0.0-beta04-3 /home/raul/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.gsi_finanzas.app-debug-4 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/android/app/src/debug/res
+com.example.gsi_finanzas.app-main-5 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/android/app/src/main/res
+com.example.gsi_finanzas.app-pngs-6 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/generated/res/pngs/debug
+com.example.gsi_finanzas.app-resValues-7 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/generated/res/resValues/debug
+com.example.gsi_finanzas.app-rs-8 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/generated/res/rs/debug
+com.example.gsi_finanzas.app-mergeDebugResources-9 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.gsi_finanzas.app-mergeDebugResources-10 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.gsi_finanzas.app-merged_res-11 /home/raul/Escritorio/GSI_flutter/gsi_finanzas/build/app/intermediates/merged_res/debug
